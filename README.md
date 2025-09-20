@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 👋 I’m @mwoeckinger (Michael Wöckinger), this is my private github profile
-- 👀 I’m interested in every kind of topic around software engineering and programming, specifically Backend and Fullstack-technologies
+- 👀 I’m interested in every kind of topic around software engineering and programming, specifically backend and fullstack-technologies
 - 🌱 I’m currently studying Software Engineering (BSc) at the University of Applied Sciences Upper Austria in Hagenberg
 
 - 📫 How to reach me: woeckinger.home@me.com (private) / s2310307094@fhooe.at (educational) 
